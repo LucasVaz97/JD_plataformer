@@ -1,0 +1,21 @@
+Problems:
+
+Gethit and dash ---> solved with poor solution
+
+flip after dash ---> solved with good solution
+
+slide? ---> solved with good solution
+
+flip attack fix
+
+To do:
+
+Attack animation!!!!
+
+Ui
+
+Menu
+
+Boss
+
+ParallaxBackGround
